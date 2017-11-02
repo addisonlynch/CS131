@@ -18,7 +18,7 @@ let micro_grammar =
     | VP -> [[N V; N DP]; [N V; N DP]]
     | V -> [[T"filled"]; [T"fixed"]])
 
-let test_2 = (parse_prefix micro_grammar accept_all 
+let test_1 = (parse_prefix micro_grammar accept_all 
                       ["He"; "fixed"; "the"; "problem"])
            = Some
            ([(S, [N DP; N VP;]); 
@@ -45,7 +45,7 @@ let simple_grammar =
     | P -> [[T"with"]; [T"using"]; [T"on"]])
 
 
-let test_3 = (parse_prefix simple_grammar accept_all 
+let test_2 = (parse_prefix simple_grammar accept_all 
                       ["I"; "ate"; "the"; "food"; "with"; "my"; "fork"])
            = Some
            ([(S, [N DP; N VP;]); 
