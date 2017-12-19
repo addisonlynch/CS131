@@ -1,0 +1,140 @@
+% TEMPLATE for Usenix papers, specifically to meet requirements of
+%  USENIX '05
+% originally a template for producing IEEE-format articles using LaTeX.
+%   written by Matthew Ward, CS Department, Worcester Polytechnic Institute.
+% adapted by David Beazley for his excellent SWIG paper in Proceedings,
+%   Tcl 96
+% turned into a smartass generic template by De Clarke, with thanks to
+%   both the above pioneers
+% use at your own risk.  Complaints to /dev/null.
+% make it two column with no page numbering, default is 10 point
+
+% Munged by Fred Douglis <douglis@research.att.com> 10/97 to separate
+% the .sty file from the LaTeX source template, so that people can
+% more easily include the .sty file into an existing document.  Also
+% changed to more closely follow the style guidelines as represented
+% by the Word sample file. 
+
+% Note that since 2010, USENIX does not require endnotes. If you want
+% foot of page notes, don't include the endnotes package in the 
+% usepackage command, below.
+
+% This version uses the latex2e styles, not the very ancient 2.09 stuff.
+\documentclass[letterpaper,twocolumn,10pt]{article}
+\usepackage{usenix,epsfig,endnotes}
+
+\usepackage[none]{hyphenat}
+\begin{document}
+
+%don't want date printed
+\date{}
+
+%make title bold and 14 pt font (Latex default is non-bold, 16 pt)
+\title{\Large \bf Application Server Herd with \texttt{asyncio}}
+
+%for single author (just remove % characters)
+\author{
+Addison Lynch\\
+904484099
+}
+% copy the following lines to add more authors
+% \and
+% {\rm Name}\\
+%Name Institution
+ % end author
+
+\maketitle
+
+% Use the following at camera-ready time to suppress page numbers.
+% Comment it out when you first submit the paper for review.
+\thispagestyle{empty}
+
+
+\subsection*{Abstract}
+
+This paper explores a test application of an \textit{application server herd} that asynchronously listens on five TCP ports, accepts data, relays the data, and responds to the client. To implement this, we have used the asyncio library of Python 3.6.
+
+\section{Python}
+
+\subsection{Overview}
+
+There are both advantages and disadvantages to using Python for this project. Python, a high-level interpreted language, is strong, dynamic typed. It employs \textit{duck typing} and does not check type constraints at compile time. It does, however, forbid certain undefined operations. There are two main implementations of Python, Cython and Jython, the former written in C and the latter in Java. The main difference between the two implementations (which are nearly syntactically-identical), is the way they manage memory. Jython uses the Java Memory Model (JMM), while Cython uses a specialized reference counting scheme. Given that this project's implementation is Cython, we explain Cython's memory management process. 
+
+\subsection{Memory Management}
+
+Cython uses a combination of reference counting to detect garbage objects (which have no references) and a cycle detection algorithm to search for garbage cycles. Though the language contains built-in modules such as \texttt{gc} to handle garbage collection, most programs need not use it, as garbage collection is \textit{automatic}. A private heap is used to hold each object and data structure of a program. This heap, which handles storage dynamically, is managed by the \textit{Python Memory Manager}. The PMM has exclusive control over the heap, which cannot be controlled by the user, though certain high-level manipulation is allowed.
+
+\subsection{Asynchronous I/O}
+
+Here we arrive at the core of Python's usefulness in this project. Typical I/O operations (such as those in C/C++) are typically handled by servers on a thread-per-request basis. With a fixed thread pool, the application assigns each of these threads to a request as needed. This approach, however, is both limited and cumbersome in applications where many requests are received concurrently (such as our proxy for the Google Places API). With a limited number of threads in the thread pool, requests further down the call stack may be delayed if all currently-executing threads are blocked. Further, each thread requires a certain amount of often limited stack space (especially in C), placing further holds on the application when the memory is exhausted.\\
+
+An improvement on this method for applications which conduct a high-level of concurrent I/O operations is coroutines. Coroutines are subroutines for non-preemptive multitasking. They allow multiple entry points for suspending and resuming execution of a function at certain locations. Essentially, coroutines are functions that can be \textit{paused}. In the case of the Google Places Proxy, we implement a coroutine to await network transmission on an open TCP connection. While input is not received, the function pauses, or \textit{yields} control to another coroutine and awaits transmission. The primitives for this method in Python were \textit{Generators}, which were first introduced in Python 2.2 (PEP255). Generators introduced the \texttt{yield} command, which allowed a function to maintain its scope (a namespace of local variables) when returned. The primitive generators were purely one-directional, however, as it as not possible to pass values to a generator function. 
+
+Thus a feature was added in Python 2.5 (PEP342) which added the \texttt{send()} method, which allowed the calling scope to pass values to the generator. Then followed PEP380 of Python 3.3 which added the \texttt{yield from} command. \texttt{yield from} allows for refactoring generators, providing the ability to yield every value from an iterator and traverse the call stack. 
+
+Asynchronous I/O is a non-blocking form of I/O processing which allows processing to continue before a transmission is finished. 
+
+\subsection{\texttt{asyncio}}
+
+\texttt{asyncio} is a module that "provides infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resource, running network clients and servers, and other related primitives." The library was introduced in Python 3.4 (PEP3156) and was born from the \texttt{yield from} command introduced in Python 3.3 (PEP380).
+
+
+\texttt{asyncio} is the ideal Python module for implementation of the Wikimedia platform. To begin, it's simple and easily-implementable. As seen with the Application Server Herd abstract that has here been built, it's clear that the implementation is both stable and scalable. 
+
+
+\section{Server Herd Implementation}
+
+
+\subsection{Servers}
+
+The objective of the project is to have five concurrently-running servers named Alford, Ball, Hamilton, Holiday, and Welsh listening on five distinct TCP ports. To instantiate these servers, we first create an event loop with \texttt{asyncio.get\_event\_loop()}, which, when called with no arguments, returns an empty event loop. Next, \texttt{asyncio.AbstractEventLoop.create\_server()} is a coroutine that will instantiate and return a \texttt{Server} object with attribute \texttt{sockets} which contains the any created sockets. 
+
+We pass \texttt{create\_server()} a lambda-instantiated instance of our \texttt{ServerProtocol} class (see below) as well as a hostname (localhost in this case) and a port. To obtain the port for each server, we cache the desired port values in either a configuration file or in a dictionary atop the program (the latter in this case). Once the server is created, it will listen for socket connections on that port and handle them as we desire with the \texttt{ServerProtocol} callback methods.
+
+\subsection{Protocols}
+
+The server herd implements three network protocols (subclassed from \texttt{asyncio.Protocol}) to handle its transports. 
+
+
+
+\begin{enumerate}
+	\item \texttt{ServerProtocol} - base of the application and accepts/transmits data to and from the client. 
+	\item \texttt{InterServerProtocol} - handles inter-server communications (propagation)
+	\item \texttt{GoogleProtocol} - handles http 1.1 requests between the server and the Google Places API
+\end{enumerate}
+
+\subsubsection{\texttt{ServerProtocol}}
+
+\texttt{ServerProtocol} is the primary protocol through which transmissions are sent and received between the server and the client. While subclassing \texttt{asyncio.BaseProtocol}, we provide implementations of each of its callback functions, notably \texttt{connection\_made()} and \texttt{data\_received()}. The server listens on its assigned port until certain events occur, such as the opening of a connection or the transmission of data. Connections are handled on a per-request basis, with callback functions returning control to the main event loop at the completion of their execution. The \texttt{ServerProtocol} reads transmissions from the client into a buffer, then sends this buffer to be tokenized, validated, and processed with \texttt{tokenize\_request()}, \texttt{process\_<COMMAND>()}, and \texttt{propagate\_data()}.
+
+While tokenizing the data, the protocol ensures that a proper command as well as properly-formatted ISO6709 location and POSIX time are provided. After determining the command that the client has passed, the protocol processes this request accordingly. In the case of a IAMAT command, the server updates the database accordingly with location, time, and skew information about the client. When doing so, it ensures that the request's timestamp is more recent than the current entry in the database, preventing untimely updates across the servers. It then propagates such data to the servers in its \textit{friends} list as specified in a dictionary at the top of the program using \texttt{asyncio.AbstractEventLoop.create\_connection()} and an instance of \texttt{InterServerProtocol}. 
+
+In the case of a WHATSAT command, the server queries the database for the latest location and time data from the client. If there exists no such data, the server returns an invalid response (led by \texttt{?}) as specified. Else, it uses the data to create a new TCP/SSL connection to the Google Places API, as specified with a new connection using the \texttt{GoogleProtocol}.
+
+\subsubsection{\texttt{InterServerProtocol}}
+
+\subsubsection{\texttt{GoogleProtocol}}
+
+\subsection{Propagation}
+
+\subsection{HTTP Request from Google Places API}
+
+\section{Operation \& Testing}
+
+We see from the docs that \texttt{asyncio} currently implements transports for TCP, UDP, SSL, and subprocess pipes." Intuitively, we can see that two protocols need to be created. The first, a TCP protocol, will facilitate communications between each of the five servers. The other, an SSL protocol, will allow us to asynchronously obtain data from the Google Places API without the use of aiohttp or similar resources.
+
+\section{node.JS?}
+
+Node.js is a Javascript run-time environment that handles server-side operations with Javascript. Node is based on an event-driven framework which employs asynchronous I/O most commonly in a web environment. In serving dynamic web content and real-time applications, Node enables the program to conduct I/O operations outside of the main thread, preventing blocking and allowing the application to continue to serve its content. There has been much discussion since the advent of \texttt{asyncio} about the pros and cons of using Python versus Node.js, and it is clear that there are a number of distinctions between the two. 
+
+The clearest of these distinctions is performance, a category which Node.js dominates Python. Given that Cython is written \textit{on top of} C, it must first compile to C before running, a process which deals a significant blow to performance. In a web environment, particuarly  Further, the asynchronous architecture behind Node.js is built-in by default, whereas Python supports coroutines via the \texttt{asyncio} module. Error handling is frequently raised as an additional issue, with 
+\section{Conclusion}
+
+
+\end{document}
+
+
+
+
+
+

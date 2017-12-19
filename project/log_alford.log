@@ -1,0 +1,513 @@
+12/07/2017 02:33:25 AM INFO: Started
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40774) opened
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40776) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40776): WHATSAT
+
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40776) closed
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 40774)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 40774)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40774) closed
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40790) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40790): WHATSAT 7192a87c7e1049d881ddcbeb41421458
+
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT 7192a87c7e1049d881ddcbeb41421458
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40790) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40792) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40792): WHATSAT 7192a87c7e1049d881ddcbeb41421458 2
+
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT 7192a87c7e1049d881ddcbeb41421458 2
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40792) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40794) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40794): WHATSAT 7192a87c7e1049d881ddcbeb41421458 1000 1
+
+12/07/2017 02:34:01 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT 7192a87c7e1049d881ddcbeb41421458 1000 1
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40794) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40796) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40796): WHATSAT 7192a87c7e1049d881ddcbeb41421458 1 1000
+
+12/07/2017 02:34:01 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT 7192a87c7e1049d881ddcbeb41421458 1 1000
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40796) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40798) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40798): WHATSAT 7192a87c7e1049d881ddcbeb41421458 -10 10
+
+12/07/2017 02:34:01 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT 7192a87c7e1049d881ddcbeb41421458 -10 10
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40798) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40800) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40800): WHATSAT 7192a87c7e1049d881ddcbeb41421458 10 -10
+
+12/07/2017 02:34:01 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT 7192a87c7e1049d881ddcbeb41421458 10 -10
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40800) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40802) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40802): WHATSAT hello 10 -10
+
+12/07/2017 02:34:01 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT hello 10 -10
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40802) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40804) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40804): WHATSAT 7192a87c7e1049d881ddcbeb41421458 r 10
+
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT 7192a87c7e1049d881ddcbeb41421458 r 10
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40804) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40806) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40806): WHATSAT 7192a87c7e1049d881ddcbeb41421458 10 l
+
+12/07/2017 02:34:01 AM ERROR: Returned invalid response ? WHATSAT 7192a87c7e1049d881ddcbeb41421458 10 l
+
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40806) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40808) opened
+12/07/2017 02:34:01 AM INFO: Data received from ('127.0.0.1', 40808): IAMAT 3cd1b3c0eaac46539c994641e568086f +34.068930-118.445127 1512632041.740957022
+
+12/07/2017 02:34:01 AM INFO: Send to ('127.0.0.1', 40808): 'AT Alford +0.001305 3cd1b3c0eaac46539c994641e568086f +34.068930-118.445127 1512632041.740957\n'
+12/07/2017 02:34:01 AM INFO: Close socket with ('127.0.0.1', 40808)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:01 AM INFO: Propagating to Welsh
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 40808) closed
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40842) opened
+12/07/2017 02:34:03 AM INFO: Data received from ('127.0.0.1', 40842): IAMAT kiwi.ucla.edu +34.068930-118.445127 1512632043.122246265
+
+12/07/2017 02:34:03 AM INFO: Send to ('127.0.0.1', 40842): 'AT Alford +0.001356 kiwi.ucla.edu +34.068930-118.445127 1512632043.122246\n'
+12/07/2017 02:34:03 AM INFO: Close socket with ('127.0.0.1', 40842)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Propagating to Welsh
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40842) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40864) opened
+12/07/2017 02:34:03 AM INFO: Data received from ('127.0.0.1', 40864): IAMAT 820daa23379b4a03827ef4020ad99fea +34.068930-118.445127 1512632043.849895000
+
+12/07/2017 02:34:03 AM INFO: Send to ('127.0.0.1', 40864): 'AT Alford +0.001393 820daa23379b4a03827ef4020ad99fea +34.068930-118.445127 1512632043.849895\n'
+12/07/2017 02:34:03 AM INFO: Close socket with ('127.0.0.1', 40864)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Propagating to Welsh
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40864) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40892) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 40892)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 40892)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40892) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40904) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 40904)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 40904)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40904) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40914) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 40914)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 40914)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 40914) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40928) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 40928)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 40928)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40928) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40940) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 40940)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 40940)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40940) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40950) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 40950)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 40950)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40950) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40954) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40954): LLL
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? LLL
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40954) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40956) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40956): IAMTA kiwi +34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMTA kiwi +34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40956) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40958) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40958): IAMAT ki wi +34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMAT ki wi +34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40958) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40960) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40960): IAMAT kiwi 34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMAT kiwi 34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40960) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40962) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40962): IAMAT kiwi -118.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMAT kiwi -118.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40962) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40964) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40964): IAMAT kiwi +18.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMAT kiwi +18.445127 1479413884.392014450
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40964) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40966) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40966): IAMAT kiwi Los_Angeles 1479413884.392014450
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMAT kiwi Los_Angeles 1479413884.392014450
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40966) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40968) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40968): IAMAT kiwi +34-118 1479413884.392014450
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMAT kiwi +34-118 1479413884.392014450
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40968) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40970) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40970): IAMAT ki wi +34.068930-118.445127 NOW
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMAT ki wi +34.068930-118.445127 NOW
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40970) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40972) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40972): IAMAT kiwi +34.060000-118.000000 -1479413884.392014450
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMAT kiwi +34.060000-118.000000 -1479413884.392014450
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40972) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40974) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 40974): IAMAT kiwi +34.060000-118.000000 -1479413884.392014450 HELLO
+
+12/07/2017 02:34:04 AM ERROR: Returned invalid response ? IAMAT kiwi +34.060000-118.000000 -1479413884.392014450 HELLO
+
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40974) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40990) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 40990)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 40990)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40990) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40996) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 40996)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 40996)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 40996) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 41008) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 41008)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 41008)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 41008) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 41024) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 41024)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 41024)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 41024) closed
+12/07/2017 02:34:28 AM INFO: Shutdown
+12/07/2017 02:41:13 AM INFO: Started
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41028) opened
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41030) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41030): WHATSAT
+
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41030) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41034) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41034): WHATSAT e61a6effd7cf4d359faacc206f2b640d
+
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT e61a6effd7cf4d359faacc206f2b640d
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41034) closed
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 41028)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 41028)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41028) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41036) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41036): WHATSAT e61a6effd7cf4d359faacc206f2b640d 2
+
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT e61a6effd7cf4d359faacc206f2b640d 2
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41036) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41046) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41046): WHATSAT e61a6effd7cf4d359faacc206f2b640d 1000 1
+
+12/07/2017 02:41:32 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT e61a6effd7cf4d359faacc206f2b640d 1000 1
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41046) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41050) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41050): WHATSAT e61a6effd7cf4d359faacc206f2b640d 1 1000
+
+12/07/2017 02:41:32 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT e61a6effd7cf4d359faacc206f2b640d 1 1000
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41050) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41052) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41052): WHATSAT e61a6effd7cf4d359faacc206f2b640d -10 10
+
+12/07/2017 02:41:32 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT e61a6effd7cf4d359faacc206f2b640d -10 10
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41052) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41054) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41054): WHATSAT e61a6effd7cf4d359faacc206f2b640d 10 -10
+
+12/07/2017 02:41:32 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT e61a6effd7cf4d359faacc206f2b640d 10 -10
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41054) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41056) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41056): WHATSAT hello 10 -10
+
+12/07/2017 02:41:32 AM ERROR: Invalid WHATSAT radius or bound.
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT hello 10 -10
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41056) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41058) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41058): WHATSAT e61a6effd7cf4d359faacc206f2b640d r 10
+
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT e61a6effd7cf4d359faacc206f2b640d r 10
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41058) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41060) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41060): WHATSAT e61a6effd7cf4d359faacc206f2b640d 10 l
+
+12/07/2017 02:41:32 AM ERROR: Returned invalid response ? WHATSAT e61a6effd7cf4d359faacc206f2b640d 10 l
+
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41060) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41062) opened
+12/07/2017 02:41:32 AM INFO: Data received from ('127.0.0.1', 41062): IAMAT 6212511561934ddb833849f48b9f1cd6 +34.068930-118.445127 1512632492.507647038
+
+12/07/2017 02:41:32 AM INFO: Send to ('127.0.0.1', 41062): 'AT Alford +0.001284 6212511561934ddb833849f48b9f1cd6 +34.068930-118.445127 1512632492.507647\n'
+12/07/2017 02:41:32 AM INFO: Close socket with ('127.0.0.1', 41062)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:32 AM INFO: Propagating to Welsh
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 41062) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 41096) opened
+12/07/2017 02:41:33 AM INFO: Data received from ('127.0.0.1', 41096): IAMAT kiwi.ucla.edu +34.068930-118.445127 1512632493.962790012
+
+12/07/2017 02:41:33 AM INFO: Send to ('127.0.0.1', 41096): 'AT Alford +0.001496 kiwi.ucla.edu +34.068930-118.445127 1512632493.96279\n'
+12/07/2017 02:41:33 AM INFO: Close socket with ('127.0.0.1', 41096)
+12/07/2017 02:41:33 AM INFO: Propagate data to other servers
+12/07/2017 02:41:33 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:33 AM INFO: Propagating to Welsh
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 41096) closed
+12/07/2017 02:41:33 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:33 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:33 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:33 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41118) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41118): IAMAT 352fb6432625454d89b29acbbacca6be +34.068930-118.445127 1512632494.690160036
+
+12/07/2017 02:41:34 AM INFO: Send to ('127.0.0.1', 41118): 'AT Alford +0.002519 352fb6432625454d89b29acbbacca6be +34.068930-118.445127 1512632494.69016\n'
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 41118)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41118) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41146) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 41146)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 41146)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41146) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41158) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 41158)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 41158)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41158) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41168) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 41168)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 41168)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41168) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41182) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 41182)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 41182)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41182) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41192) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 41192)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 41192)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41192) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41204) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 41204)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 41204)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41204) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41208) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41208): LLL
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? LLL
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41208) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41210) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41210): IAMTA kiwi +34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMTA kiwi +34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41210) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41212) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41212): IAMAT ki wi +34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMAT ki wi +34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41212) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41214) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41214): IAMAT kiwi 34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMAT kiwi 34.068930-118.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41214) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41216) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41216): IAMAT kiwi -118.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMAT kiwi -118.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41216) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41218) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41218): IAMAT kiwi +18.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMAT kiwi +18.445127 1479413884.392014450
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41218) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41220) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41220): IAMAT kiwi Los_Angeles 1479413884.392014450
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMAT kiwi Los_Angeles 1479413884.392014450
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41220) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41222) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41222): IAMAT kiwi +34-118 1479413884.392014450
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMAT kiwi +34-118 1479413884.392014450
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41222) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41224) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41224): IAMAT ki wi +34.068930-118.445127 NOW
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMAT ki wi +34.068930-118.445127 NOW
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41224) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41226) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41226): IAMAT kiwi +34.060000-118.000000 -1479413884.392014450
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMAT kiwi +34.060000-118.000000 -1479413884.392014450
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41226) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41228) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 41228): IAMAT kiwi +34.060000-118.000000 -1479413884.392014450 HELLO
+
+12/07/2017 02:41:34 AM ERROR: Returned invalid response ? IAMAT kiwi +34.060000-118.000000 -1479413884.392014450 HELLO
+
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41228) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41240) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 41240)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 41240)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41240) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41256) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 41256)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 41256)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41256) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41262) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 41262)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 41262)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 41262) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:35 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 41276) opened
+12/07/2017 02:41:35 AM INFO: InterServer data received from ('127.0.0.1', 41276)
+12/07/2017 02:41:35 AM INFO: Closing peer connection from ('127.0.0.1', 41276)
+12/07/2017 02:41:35 AM INFO: Propagate data to other servers
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 41276) closed

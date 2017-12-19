@@ -1,0 +1,305 @@
+12/07/2017 02:33:31 AM INFO: Started
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 48946) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 48946)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 48946)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Holiday
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 48946) closed
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 48956) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 48956)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 48956)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 48956) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 48982) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 48982)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 48982)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Holiday
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 48982) closed
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 48988) opened
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 48988)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 48988)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Welsh
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 48988) closed
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:02 AM INFO: Connection from ('127.0.0.1', 48994) opened
+12/07/2017 02:34:02 AM INFO: Data received from ('127.0.0.1', 48994): WHATSAT 3cd1b3c0eaac46539c994641e568086f 1 1
+
+12/07/2017 02:34:02 AM INFO: Querying Google Places API...
+12/07/2017 02:34:02 AM INFO: Connection from ('127.0.0.1', 48994) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49018) opened
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49020) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 49018)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 49018)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Welsh
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49018) closed
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 49020)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 49020)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Holiday
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49020) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49028) opened
+12/07/2017 02:34:03 AM INFO: Data received from ('127.0.0.1', 49028): WHATSAT kiwi.ucla.edu 1 1
+
+12/07/2017 02:34:03 AM INFO: Querying Google Places API...
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49028) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49038) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 49038)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 49038)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Holiday
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49038) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49046) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 49046)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 49046)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Welsh
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49046) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49052) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 49052)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 49052)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Welsh
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49052) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49062) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 49062)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 49062)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Welsh
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49062) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49076) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 49076)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 49076)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Welsh
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 49076) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49088) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 49088)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 49088)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Welsh
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49088) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49098) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 49098)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 49098)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Welsh
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49098) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49112) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 49112)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 49112)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Welsh
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49112) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49146) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 49146)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 49146)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Welsh
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49146) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49154) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 49154)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 49154)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Welsh
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49154) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49170) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 49170)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 49170)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Welsh
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49170) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49186) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 49186)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 49186)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Welsh
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 49186) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:34:27 AM INFO: Shutdown
+12/07/2017 02:41:15 AM INFO: Started
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 49200) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 49200)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 49200)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Holiday
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 49200) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 49216) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 49216)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 49216)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 49216) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 49236) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 49236)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 49236)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Holiday
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 49236) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 49242) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 49242)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 49242)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Welsh
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 49242) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 49248) opened
+12/07/2017 02:41:33 AM INFO: Data received from ('127.0.0.1', 49248): WHATSAT 6212511561934ddb833849f48b9f1cd6 1 1
+
+12/07/2017 02:41:33 AM INFO: Querying Google Places API...
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 49248) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 49272) opened
+12/07/2017 02:41:33 AM INFO: InterServer data received from ('127.0.0.1', 49272)
+12/07/2017 02:41:33 AM INFO: Closing peer connection from ('127.0.0.1', 49272)
+12/07/2017 02:41:33 AM INFO: Propagate data to other servers
+12/07/2017 02:41:33 AM INFO: Propagating to Welsh
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 49272) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 49274) opened
+12/07/2017 02:41:33 AM INFO: InterServer data received from ('127.0.0.1', 49274)
+12/07/2017 02:41:33 AM INFO: Closing peer connection from ('127.0.0.1', 49274)
+12/07/2017 02:41:33 AM INFO: Propagate data to other servers
+12/07/2017 02:41:33 AM INFO: Propagating to Holiday
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 49274) closed
+12/07/2017 02:41:33 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:33 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:41:33 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:33 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49282) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 49282): WHATSAT kiwi.ucla.edu 1 1
+
+12/07/2017 02:41:34 AM INFO: Querying Google Places API...
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49282) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49292) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49292)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49292)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Holiday
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49292) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49300) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49300)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49300)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49300) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49306) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49306)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49306)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49306) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49316) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49316)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49316)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49316) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49328) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49328)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49328)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49328) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49342) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49342)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49342)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49342) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49354) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49354)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49354)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49354) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49366) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49366)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49366)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49366) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49400) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49400)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49400)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49400) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49414) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49414)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49414)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49414) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49420) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 49420)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 49420)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Welsh
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 49420) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8614) closed
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 49440) opened
+12/07/2017 02:41:35 AM INFO: InterServer data received from ('127.0.0.1', 49440)
+12/07/2017 02:41:35 AM INFO: Closing peer connection from ('127.0.0.1', 49440)
+12/07/2017 02:41:35 AM INFO: Propagate data to other servers
+12/07/2017 02:41:35 AM INFO: Propagating to Welsh
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 49440) closed
+12/07/2017 02:41:35 AM INFO: Peer connection to ('127.0.0.1', 8614) opened
+12/07/2017 02:41:35 AM INFO: Connection to peer ('127.0.0.1', 8614) closed

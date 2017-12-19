@@ -1,0 +1,328 @@
+12/07/2017 02:33:37 AM INFO: Started
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 44038) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 44038)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 44038)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Holiday
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 44038) closed
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 44044) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 44044)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 44044)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 44044) closed
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 44068) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 44068)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 44068)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Holiday
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 44068) closed
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 44080) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 44080)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 44080)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 44080) closed
+12/07/2017 02:34:02 AM INFO: Connection from ('127.0.0.1', 44092) opened
+12/07/2017 02:34:02 AM INFO: Data received from ('127.0.0.1', 44092): WHATSAT 3cd1b3c0eaac46539c994641e568086f 1 1
+
+12/07/2017 02:34:02 AM INFO: Querying Google Places API...
+12/07/2017 02:34:02 AM INFO: Connection from ('127.0.0.1', 44092) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44102) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44102)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44102)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Holiday
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44102) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44116) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44116)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44116)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44116) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44124) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44124)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44124)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Holiday
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44124) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44132) opened
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44132)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44132)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44132) closed
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44144) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44144)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44144)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44144) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44154) opened
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44156) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44154)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44154)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44154) closed
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44156)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44156)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44156) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44164) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44164)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44164)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44164) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44168) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44168)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44168)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44168) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44174) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 44174)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 44174)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 44174) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44180) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44180)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44180)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44180) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44190) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44190)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44190)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44190) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44192) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44192)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44192)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44192) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44200) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44200)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44200)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44200) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44204) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44204)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44204)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44204) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44210) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44210)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44210)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44210) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44240) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44240)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44240)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44240) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44246) opened
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44250) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44250)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44250)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44250) closed
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44246)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44246)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44246) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44258) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44258)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44258)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44258) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44262) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44262)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44262)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44262) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44268) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 44268)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 44268)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44268) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44270) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 44270): IAMAT 2c7d59ddc30f49b5862f275467540b15 +34.068930-118.445127 1512632044.224164009
+
+12/07/2017 02:34:04 AM INFO: Send to ('127.0.0.1', 44270): 'AT Hamilton +0.00127 2c7d59ddc30f49b5862f275467540b15 +34.068930-118.445127 1512632044.224164\n'
+12/07/2017 02:34:04 AM INFO: Close socket with ('127.0.0.1', 44270)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Holiday
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44270) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44274) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 44274): WHATSAT 2c7d59ddc30f49b5862f275467540b15 1 10
+
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:34:04 AM INFO: Querying Google Places API...
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 44274) closed
+12/07/2017 02:34:26 AM INFO: Shutdown
+12/07/2017 02:41:16 AM INFO: Started
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 44296) opened
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 44300) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 44296)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 44296)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Holiday
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 44296) closed
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 44300)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 44300)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 44300) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 44322) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 44322)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 44322)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Holiday
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 44322) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 44334) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 44334)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 44334)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 44334) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 44346) opened
+12/07/2017 02:41:33 AM INFO: Data received from ('127.0.0.1', 44346): WHATSAT 6212511561934ddb833849f48b9f1cd6 1 1
+
+12/07/2017 02:41:33 AM INFO: Querying Google Places API...
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 44346) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 44356) opened
+12/07/2017 02:41:33 AM INFO: InterServer data received from ('127.0.0.1', 44356)
+12/07/2017 02:41:33 AM INFO: Closing peer connection from ('127.0.0.1', 44356)
+12/07/2017 02:41:33 AM INFO: Propagate data to other servers
+12/07/2017 02:41:33 AM INFO: Propagating to Holiday
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 44356) closed
+12/07/2017 02:41:33 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:41:33 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 44370) opened
+12/07/2017 02:41:33 AM INFO: InterServer data received from ('127.0.0.1', 44370)
+12/07/2017 02:41:33 AM INFO: Closing peer connection from ('127.0.0.1', 44370)
+12/07/2017 02:41:33 AM INFO: Propagate data to other servers
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 44370) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44378) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44378)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44378)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Holiday
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44378) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44388) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44388)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44388)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44388) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44398) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44398)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44398)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44398) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44408) opened
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44410) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44408)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44408)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44408) closed
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44410)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44410)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44410) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44420) opened
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44422) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44420)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44420)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44420) closed
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44422)
+12/07/2017 02:41:34 AM INFO: Timestamp of current request predates current database information. Discarding update and returning most recent location.
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44422)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44422) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44428) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44428)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44428)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44428) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44434) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44434)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44434)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44434) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44442) opened
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44446) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44442)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44442)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44442) closed
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44446)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44446)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44446) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44452) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44452)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44452)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44452) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44458) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44458)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44458)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44458) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44464) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44464)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44464)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44464) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44494) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44494)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44494)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44494) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44502) opened
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44506) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44502)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44502)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44502) closed
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44506)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44506)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44506) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44512) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44512)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44512)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44512) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44516) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 44516)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 44516)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 44516) closed
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 44522) opened
+12/07/2017 02:41:35 AM INFO: InterServer data received from ('127.0.0.1', 44522)
+12/07/2017 02:41:35 AM INFO: Closing peer connection from ('127.0.0.1', 44522)
+12/07/2017 02:41:35 AM INFO: Propagate data to other servers
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 44522) closed
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 44524) opened
+12/07/2017 02:41:35 AM INFO: Data received from ('127.0.0.1', 44524): IAMAT 2c62b9c253fb48019ce5585fedac586c +34.068930-118.445127 1512632495.056168079
+
+12/07/2017 02:41:35 AM INFO: Send to ('127.0.0.1', 44524): 'AT Hamilton +0.001269 2c62b9c253fb48019ce5585fedac586c +34.068930-118.445127 1512632495.056168\n'
+12/07/2017 02:41:35 AM INFO: Close socket with ('127.0.0.1', 44524)
+12/07/2017 02:41:35 AM INFO: Propagate data to other servers
+12/07/2017 02:41:35 AM INFO: Propagating to Holiday
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 44524) closed
+12/07/2017 02:41:35 AM INFO: Peer connection to ('127.0.0.1', 8613) opened
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 44528) opened
+12/07/2017 02:41:35 AM INFO: Data received from ('127.0.0.1', 44528): WHATSAT 2c62b9c253fb48019ce5585fedac586c 1 10
+
+12/07/2017 02:41:35 AM INFO: Connection to peer ('127.0.0.1', 8613) closed
+12/07/2017 02:41:35 AM INFO: Querying Google Places API...
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 44528) closed

@@ -1,0 +1,377 @@
+12/07/2017 02:33:45 AM INFO: Started
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 59360) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 59360)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 59360)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 59360) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 59362) opened
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 59362)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 59362)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Ball
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 59362) closed
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 59394) opened
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 59396) opened
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 59396)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 59396)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Ball
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 59396) closed
+12/07/2017 02:34:01 AM INFO: InterServer data received from ('127.0.0.1', 59394)
+12/07/2017 02:34:01 AM INFO: Closing peer connection from ('127.0.0.1', 59394)
+12/07/2017 02:34:01 AM INFO: Propagate data to other servers
+12/07/2017 02:34:01 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:01 AM INFO: Connection from ('127.0.0.1', 59394) closed
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:01 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:01 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:02 AM INFO: Connection from ('127.0.0.1', 59408) opened
+12/07/2017 02:34:02 AM INFO: Data received from ('127.0.0.1', 59408): WHATSAT 3cd1b3c0eaac46539c994641e568086f 1 1
+
+12/07/2017 02:34:02 AM INFO: Querying Google Places API...
+12/07/2017 02:34:02 AM INFO: Connection from ('127.0.0.1', 59408) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59426) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 59426)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 59426)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Ball
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59426) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59434) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 59434)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 59434)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59434) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59450) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 59450)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 59450)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59450) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59454) opened
+12/07/2017 02:34:03 AM INFO: InterServer data received from ('127.0.0.1', 59454)
+12/07/2017 02:34:03 AM INFO: Closing peer connection from ('127.0.0.1', 59454)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Ball
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59454) closed
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59460) opened
+12/07/2017 02:34:03 AM INFO: Data received from ('127.0.0.1', 59460): IAMAT a665a3756e3a4cea98270b56ef6cd903 +34.068930-118.445127 1512632043.916974068
+
+12/07/2017 02:34:03 AM INFO: Send to ('127.0.0.1', 59460): 'AT Holiday +0.001283 a665a3756e3a4cea98270b56ef6cd903 +34.068930-118.445127 1512632043.916974\n'
+12/07/2017 02:34:03 AM INFO: Close socket with ('127.0.0.1', 59460)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Ball
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59460) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59466) opened
+12/07/2017 02:34:03 AM INFO: Data received from ('127.0.0.1', 59466): IAMAT a665a3756e3a4cea98270b56ef6cd903 +34.068930-118.445127 1512631043.916974068
+
+12/07/2017 02:34:03 AM INFO: Timestamp of current request predates current database information. Discarding update and returning most recent location.
+12/07/2017 02:34:03 AM INFO: Send to ('127.0.0.1', 59466): 'AT Holiday +0.001283 a665a3756e3a4cea98270b56ef6cd903 +34.068930-118.445127 1512632043.916974\n'
+12/07/2017 02:34:03 AM INFO: Close socket with ('127.0.0.1', 59466)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Ball
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59466) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59480) opened
+12/07/2017 02:34:03 AM INFO: Data received from ('127.0.0.1', 59480): IAMAT a665a3756e3a4cea98270b56ef6cd903 +34.068930-118.445127 1512633043.916974068
+
+12/07/2017 02:34:03 AM INFO: Send to ('127.0.0.1', 59480): 'AT Holiday +-999.984725 a665a3756e3a4cea98270b56ef6cd903 +34.068930-118.445127 1512633043.916974\n'
+12/07/2017 02:34:03 AM INFO: Close socket with ('127.0.0.1', 59480)
+12/07/2017 02:34:03 AM INFO: Propagate data to other servers
+12/07/2017 02:34:03 AM INFO: Propagating to Ball
+12/07/2017 02:34:03 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:03 AM INFO: Connection from ('127.0.0.1', 59480) closed
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:03 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:03 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59496) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 59496): IAMAT kiwi.ucla.edu +34.068930-118.445127 1512632044.006201
+
+12/07/2017 02:34:04 AM INFO: Send to ('127.0.0.1', 59496): 'AT Holiday +0.001501 kiwi.ucla.edu +34.068930-118.445127 1512632044.006201\n'
+12/07/2017 02:34:04 AM INFO: Close socket with ('127.0.0.1', 59496)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Ball
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59496) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59502) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 59502): IAMAT kiwi.ucla.edu +34.068930-118.445127 1512631044.006201
+
+12/07/2017 02:34:04 AM INFO: Timestamp of current request predates current database information. Discarding update and returning most recent location.
+12/07/2017 02:34:04 AM INFO: Send to ('127.0.0.1', 59502): 'AT Holiday +0.001501 kiwi.ucla.edu +34.068930-118.445127 1512632044.006201\n'
+12/07/2017 02:34:04 AM INFO: Close socket with ('127.0.0.1', 59502)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Ball
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59502) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59516) opened
+12/07/2017 02:34:04 AM INFO: Data received from ('127.0.0.1', 59516): IAMAT kiwi.ucla.edu +34.068930-118.445127 1512633044.006201
+
+12/07/2017 02:34:04 AM INFO: Send to ('127.0.0.1', 59516): 'AT Holiday +-999.985128 kiwi.ucla.edu +34.068930-118.445127 1512633044.006201\n'
+12/07/2017 02:34:04 AM INFO: Close socket with ('127.0.0.1', 59516)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Ball
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59516) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59554) opened
+12/07/2017 02:34:04 AM INFO: Close socket with ('127.0.0.1', 59554)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Ball
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59554) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59558) opened
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Close socket with ('127.0.0.1', 59558)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Ball
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59558) closed
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59576) opened
+12/07/2017 02:34:04 AM INFO: Close socket with ('127.0.0.1', 59576)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Ball
+12/07/2017 02:34:04 AM INFO: Propagating to Hamilton
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59576) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59592) opened
+12/07/2017 02:34:04 AM INFO: InterServer data received from ('127.0.0.1', 59592)
+12/07/2017 02:34:04 AM INFO: Closing peer connection from ('127.0.0.1', 59592)
+12/07/2017 02:34:04 AM INFO: Propagate data to other servers
+12/07/2017 02:34:04 AM INFO: Propagating to Ball
+12/07/2017 02:34:04 AM INFO: Connection from ('127.0.0.1', 59592) closed
+12/07/2017 02:34:04 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:34:04 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:34:21 AM INFO: Shutdown
+12/07/2017 02:41:18 AM INFO: Started
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 59618) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 59618)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 59618)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 59618) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 59622) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 59622)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 59622)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Ball
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 59622) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 59648) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 59648)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 59648)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Ball
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 59648) closed
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 59650) opened
+12/07/2017 02:41:32 AM INFO: InterServer data received from ('127.0.0.1', 59650)
+12/07/2017 02:41:32 AM INFO: Closing peer connection from ('127.0.0.1', 59650)
+12/07/2017 02:41:32 AM INFO: Propagate data to other servers
+12/07/2017 02:41:32 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:32 AM INFO: Connection from ('127.0.0.1', 59650) closed
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:32 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:32 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 59662) opened
+12/07/2017 02:41:33 AM INFO: Data received from ('127.0.0.1', 59662): WHATSAT 6212511561934ddb833849f48b9f1cd6 1 1
+
+12/07/2017 02:41:33 AM INFO: Querying Google Places API...
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 59662) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 59680) opened
+12/07/2017 02:41:33 AM INFO: InterServer data received from ('127.0.0.1', 59680)
+12/07/2017 02:41:33 AM INFO: Closing peer connection from ('127.0.0.1', 59680)
+12/07/2017 02:41:33 AM INFO: Propagate data to other servers
+12/07/2017 02:41:33 AM INFO: Propagating to Ball
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 59680) closed
+12/07/2017 02:41:33 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:33 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 59688) opened
+12/07/2017 02:41:33 AM INFO: InterServer data received from ('127.0.0.1', 59688)
+12/07/2017 02:41:33 AM INFO: Closing peer connection from ('127.0.0.1', 59688)
+12/07/2017 02:41:33 AM INFO: Propagate data to other servers
+12/07/2017 02:41:33 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:33 AM INFO: Connection from ('127.0.0.1', 59688) closed
+12/07/2017 02:41:33 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:33 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59704) opened
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59706) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 59706)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 59706)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59706) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: InterServer data received from ('127.0.0.1', 59704)
+12/07/2017 02:41:34 AM INFO: Closing peer connection from ('127.0.0.1', 59704)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59704) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59714) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 59714): IAMAT 8918c1b950e74ddd9b722b83a08ad70a +34.068930-118.445127 1512632494.770809889
+
+12/07/2017 02:41:34 AM INFO: Send to ('127.0.0.1', 59714): 'AT Holiday +0.001597 8918c1b950e74ddd9b722b83a08ad70a +34.068930-118.445127 1512632494.77081\n'
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 59714)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59714) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59720) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 59720): IAMAT 8918c1b950e74ddd9b722b83a08ad70a +34.068930-118.445127 1512631494.770809889
+
+12/07/2017 02:41:34 AM INFO: Timestamp of current request predates current database information. Discarding update and returning most recent location.
+12/07/2017 02:41:34 AM INFO: Send to ('127.0.0.1', 59720): 'AT Holiday +0.001597 8918c1b950e74ddd9b722b83a08ad70a +34.068930-118.445127 1512632494.77081\n'
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 59720)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59720) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59734) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 59734): IAMAT 8918c1b950e74ddd9b722b83a08ad70a +34.068930-118.445127 1512633494.770809889
+
+12/07/2017 02:41:34 AM INFO: Send to ('127.0.0.1', 59734): 'AT Holiday +-999.985294 8918c1b950e74ddd9b722b83a08ad70a +34.068930-118.445127 1512633494.77081\n'
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 59734)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59734) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59750) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 59750): IAMAT kiwi.ucla.edu +34.068930-118.445127 1512632494.86251
+
+12/07/2017 02:41:34 AM INFO: Send to ('127.0.0.1', 59750): 'AT Holiday +0.001424 kiwi.ucla.edu +34.068930-118.445127 1512632494.86251\n'
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 59750)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59750) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59756) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 59756): IAMAT kiwi.ucla.edu +34.068930-118.445127 1512631494.86251
+
+12/07/2017 02:41:34 AM INFO: Timestamp of current request predates current database information. Discarding update and returning most recent location.
+12/07/2017 02:41:34 AM INFO: Send to ('127.0.0.1', 59756): 'AT Holiday +0.001424 kiwi.ucla.edu +34.068930-118.445127 1512632494.86251\n'
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 59756)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59756) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59774) opened
+12/07/2017 02:41:34 AM INFO: Data received from ('127.0.0.1', 59774): IAMAT kiwi.ucla.edu +34.068930-118.445127 1512633494.86251
+
+12/07/2017 02:41:34 AM INFO: Send to ('127.0.0.1', 59774): 'AT Holiday +-999.982754 kiwi.ucla.edu +34.068930-118.445127 1512633494.86251\n'
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 59774)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59774) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59808) opened
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 59808)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59808) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59812) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 59812)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59812) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59820) opened
+12/07/2017 02:41:34 AM INFO: Close socket with ('127.0.0.1', 59820)
+12/07/2017 02:41:34 AM INFO: Propagate data to other servers
+12/07/2017 02:41:34 AM INFO: Propagating to Ball
+12/07/2017 02:41:34 AM INFO: Propagating to Hamilton
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection from ('127.0.0.1', 59820) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:34 AM INFO: Peer connection to ('127.0.0.1', 8612) opened
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8612) closed
+12/07/2017 02:41:34 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 59846) opened
+12/07/2017 02:41:35 AM INFO: InterServer data received from ('127.0.0.1', 59846)
+12/07/2017 02:41:35 AM INFO: Closing peer connection from ('127.0.0.1', 59846)
+12/07/2017 02:41:35 AM INFO: Propagate data to other servers
+12/07/2017 02:41:35 AM INFO: Propagating to Ball
+12/07/2017 02:41:35 AM INFO: Connection from ('127.0.0.1', 59846) closed
+12/07/2017 02:41:35 AM INFO: Peer connection to ('127.0.0.1', 8611) opened
+12/07/2017 02:41:35 AM INFO: Connection to peer ('127.0.0.1', 8611) closed
